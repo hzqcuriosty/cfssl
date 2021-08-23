@@ -7,7 +7,7 @@
     
 > 解压添加权限
 
-    cd cfssl && tar xf cfssl.tar.gz
+    tar xf cfssl.tar.gz && cd cfssl
     
 > 拷贝文件到bin目录
 
